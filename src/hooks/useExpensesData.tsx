@@ -23,7 +23,7 @@ export const useExpensesData = () => {
           signal: AbortSignal.timeout(5000),
           headers: {
             'Content-Type': 'application/json',
-            Username: 'dinoxas'
+            Username: 'dino-hassiotis'
           }
         });
 
